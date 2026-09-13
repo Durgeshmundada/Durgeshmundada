@@ -78,7 +78,7 @@ I'm an Information Technology student at **RCOEM, Nagpur · Class of 2027**, and
 
 | Project | What I'm building | Stack / status |
 | :--- | :--- | :--- |
-| [Virtual Desktop Infrastructure](https://github.com/Durgeshmundada/virtual-desktop-infrastructure) | Stream a Windows desktop to Android with touch, mouse, and keyboard control over WebRTC. | Node.js, TypeScript, Kotlin, WebRTC · Prototype complete |
+| [Virtual Desktop Infrastructure](https://github.com/Durgeshmundada/virtual-desktop-infrastructure) | Stream a Windows desktop to Android with touch, mouse, and keyboard control over WebRTC. | Node.js, TypeScript, WebRTC · Prototype complete |
 | [Study Assistant](https://github.com/Durgeshmundada/study-assistant) | DSA explanations, quizzes, flashcards, notes, and chat over uploaded documents. | Python, LangChain, Streamlit, RAG |
 | PRAHARI | Developing an offline predictive network operations copilot, with local retrieval, network telemetry, and evidence-backed incident explanations. | Python, FastAPI, React, local LLMs · Active development |
 | [DSA practice](https://github.com/Durgeshmundada/DSA) | My problem-solving practice in arrays, trees, graphs, dynamic programming, and more. | C++ |
@@ -93,7 +93,7 @@ I'm an Information Technology student at **RCOEM, Nagpur · Class of 2027**, and
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Python, C++, SQL, Kotlin, Java |
+| **Languages** | TypeScript, JavaScript, Python, C++, SQL |
 | **Backend** | Node.js, Express, FastAPI, REST APIs, JWT, Zod |
 | **Data** | PostgreSQL / Supabase, MongoDB, ChromaDB, FAISS |
 | **Applied AI** | LangChain, LangGraph, LangSmith, RAG, MCP, OCR, LLM tool-calling |
