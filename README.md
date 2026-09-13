@@ -95,7 +95,6 @@ I'm an Information Technology student at **RCOEM, Nagpur · Class of 2027**, and
 | :--- | :--- |
 | **Languages** | TypeScript, JavaScript, Python, C++, SQL, Kotlin, Java |
 | **Backend** | Node.js, Express, FastAPI, REST APIs, JWT, Zod |
-| **Web & mobile** | React, Next.js, Expo, React Native, HTML / CSS, PWA |
 | **Data** | PostgreSQL / Supabase, MongoDB, ChromaDB, FAISS |
 | **Applied AI** | LangChain, LangGraph, LangSmith, RAG, MCP, OCR, LLM tool-calling |
 | **Delivery & testing** | Docker, GitHub Actions, Git, Render, Jest, Supertest, Hypothesis |
