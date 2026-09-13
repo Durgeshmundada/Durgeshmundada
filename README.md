@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Durgesh Mundada — Software and Applied AI Engineer. Building useful software, from APIs to AI." width="100%" />
+  <img src="assets/banner.png" alt="Durgesh Mundada — Software Engineer, Backend and AI/GenAI. Build, solve, learn, repeat. Mountain landscape at sunset." width="100%" />
 </p>
 
 <p align="center">
@@ -10,21 +10,31 @@
   <a href="mailto:mundadadurgesh@gmail.com"><strong>Email ↗</strong></a>
 </p>
 
-### Hi, I'm Durgesh 👋
+<p align="center">
+  <a href="#what-i-build">Focus</a> &nbsp; / &nbsp;
+  <a href="#selected-work">Projects</a> &nbsp; / &nbsp;
+  <a href="#tools-i-work-with">Tech stack</a> &nbsp; / &nbsp;
+  <a href="#experience">Experience</a> &nbsp; / &nbsp;
+  <a href="#education--credentials">Credentials</a>
+</p>
 
-I build backend systems, mobile apps, and AI tools that solve practical problems. My strongest work combines reliable APIs, thoughtful data models, and AI features people can actually use.
+### A little about me
 
-I'm a **B.Tech Information Technology student at RCOEM, Nagpur, graduating in 2027**, and a former **Software Engineer Intern at ParkBy Technologies**. My production app, **KiranaTrack**, helps grocery shops manage supplier bills, payments, and inventory.
+I'm an Information Technology student at **RCOEM, Nagpur · Class of 2027**, and a former **Software Engineer Intern at ParkBy Technologies**. I enjoy turning messy workflows into useful software, connecting backend engineering with mobile development and applied AI.
 
-**Open to software engineering, backend, full-stack, and applied AI internships and 2027 graduate opportunities.** Based in Nagpur, India; open to relocation.
+**Open to internships and 2027 graduate roles** in software engineering, backend, full-stack, and applied AI. Based in Nagpur, India; open to relocation. [Let's connect →](mailto:mundadadurgesh@gmail.com)
 
-<table>
-  <tr>
-    <td align="center" width="33%"><strong>6 live shops</strong><br /><sub>using KiranaTrack</sub></td>
-    <td align="center" width="33%"><strong>200+ monthly transactions</strong><br /><sub>handled by KiranaTrack</sub></td>
-    <td align="center" width="33%"><strong>500+ DSA problems</strong><br /><sub>across LeetCode, Codeforces &amp; CodeChef</sub></td>
-  </tr>
-</table>
+### What I build
+
+> **Reliable backends. Useful AI. Complete products.**
+
+- **Backend systems** — authenticated APIs, multi-tenant databases, booking concurrency, and observable services. Put into practice in [KiranaTrack](https://github.com/Durgeshmundada/KiranaTrack) and my ParkBy internship.
+- **AI grounded in evidence** — retrieval pipelines, tool-using agents, document OCR, and explanations that cite their sources. Explore [CodeSense](https://github.com/Durgeshmundada/codesense).
+- **Products beyond the API** — mobile apps, real-time experiences, and workflows that connect frontend, backend, and deployment. See [CricZone](https://github.com/Durgeshmundada/CricZone).
+
+**How I approach engineering:** validate inputs, isolate user data, test failure cases, and make behavior easy to trace. I care about understanding why a system works as much as getting it shipped.
+
+---
 
 ### Selected work
 
@@ -77,6 +87,10 @@ I'm a **B.Tech Information Technology student at RCOEM, Nagpur, graduating in 20
 
 ### Tools I work with
 
+<p align="center">
+  <img src="assets/stack.svg" alt="Core stack: TypeScript, Python, C++, Node.js, React, PostgreSQL, LangChain, and Docker" width="100%" />
+</p>
+
 | Area | Technologies |
 | :--- | :--- |
 | **Languages** | TypeScript, JavaScript, Python, C++, SQL, Kotlin, Java |
@@ -86,7 +100,14 @@ I'm a **B.Tech Information Technology student at RCOEM, Nagpur, graduating in 20
 | **Applied AI** | LangChain, LangGraph, LangSmith, RAG, MCP, OCR, LLM tool-calling |
 | **Delivery & testing** | Docker, GitHub Actions, Git, Render, Jest, Supertest, Hypothesis |
 
-**Currently learning:** Django, system design, and deeper operating systems, computer networks, and database fundamentals. Exploring local AI for network operations through PRAHARI.
+### On my desk right now
+
+- **PRAHARI** — developing an offline network operations copilot with local AI and evidence-backed explanations.
+- **VeriChain** — rebuilding the document forensic analysis core and exploring privacy-first browser AI.
+- **Learning** — Django, system design, and deeper operating systems, computer networks, and database fundamentals.
+- **Problem solving** — continuing my C++ practice in [data structures and algorithms](https://github.com/Durgeshmundada/DSA).
+
+---
 
 ### Experience
 

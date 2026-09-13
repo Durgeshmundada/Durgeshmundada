@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92" role="img" aria-labelledby="title desc">
+  <title id="title">Durgesh's core technology stack</title>
+  <desc id="desc">TypeScript, Python, C++, Node.js, React, PostgreSQL, LangChain, and Docker, displayed in dark navy badges with cyan accents.</desc>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" text-anchor="middle">
+    <g fill="#0e1b2c" stroke="#24394e">
+      <rect x="5" y="20" width="145" height="52" rx="12" />
+      <rect x="160" y="20" width="135" height="52" rx="12" />
+      <rect x="305" y="20" width="115" height="52" rx="12" />
+      <rect x="430" y="20" width="140" height="52" rx="12" />
+      <rect x="580" y="20" width="120" height="52" rx="12" />
+      <rect x="710" y="20" width="165" height="52" rx="12" />
+      <rect x="885" y="20" width="165" height="52" rx="12" />
+      <rect x="1060" y="20" width="135" height="52" rx="12" />
+    </g>
+    <g fill="#69d7f5">
+      <text x="77.5" y="52">TypeScript</text>
+      <text x="227.5" y="52">Python</text>
+      <text x="362.5" y="52">C++</text>
+      <text x="500" y="52">Node.js</text>
+      <text x="640" y="52">React</text>
+      <text x="792.5" y="52">PostgreSQL</text>
+      <text x="967.5" y="52">LangChain</text>
+      <text x="1127.5" y="52">Docker</text>
+    </g>
+  </g>
+</svg>
